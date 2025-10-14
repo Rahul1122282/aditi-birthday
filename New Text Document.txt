@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Birthday Aditi 🎉</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ffb6c1, #dda0dd);
+      font-family: 'Poppins', sans-serif;
+      text-align: center;
+      color: #333;
+      padding: 30px;
+    }
+    img {
+      width: 250px;
+      height: auto;
+      border-radius: 20px;
+      margin: 20px 0;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    }
+    h1 {
+      color: #7b1fa2;
+      font-size: 2.2em;
+      margin-top: 15px;
+    }
+    p {
+      font-size: 1.3em;
+      color: #4a148c;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎂 Happy Birthday Aditi 🎂</h1>
+  <img src="aditi.jpg" alt="Aditi's Photo">
+  <p>Our friendship is something truly special. I cherish it with my whole heart. I’m wishing you the best birthday, my best friend 💖</p>
+  <footer>— From Rahul</footer>
+</body>
+</html>
+
